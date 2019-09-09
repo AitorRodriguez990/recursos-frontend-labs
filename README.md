@@ -35,7 +35,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ### 🤔 Información
 
-[GraphQL - Documentación oficial](https://graphql.org/)
+[GraphQL - Oficial](https://graphql.org/)
 
 ### 💻 Tutoriales
 
@@ -43,8 +43,13 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## Firebase
 
-🚧 En construccion.
+### 🤔 Información
 
+[Firebase - Oficial](https://firebase.google.com/?hl=es-419)
+
+[¿Qué es Firebase? - Open Webinars](https://openwebinars.net/blog/que-es-firebase-de-google/)
+
+[Firebase - Canal Youtube](https://www.youtube.com/user/Firebase/videos)
 
 ## Web push
 
