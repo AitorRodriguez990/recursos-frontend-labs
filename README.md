@@ -29,11 +29,11 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## GraphQL
 
-## 🤔 Información
+### 🤔 Información
 
 [GraphQL - Documentación oficial](https://graphql.org/)
 
-## 💻 Tutoriales
+### 💻 Tutoriales
 
 [Curso express GraphQL - Midudev](https://www.youtube.com/watch?v=KRV46iZ844s&list=PLV8x_i1fqBw3wHa7HOle0MMAcRjfViWwC)
 
