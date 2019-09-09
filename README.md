@@ -16,7 +16,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## PWA - Progressive Web Apps
 
-### 🤔 Información
+#### 🤔 Información
 
 [Progressive Web Apps - Google Developers](https://developers.google.com/web/progressive-web-apps/)
 
@@ -24,7 +24,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 [PWA Rocks - Buscador de PWA](https://pwa.rocks/)
 
-### 💻 Tutoriales
+#### 💻 Tutoriales
 
 [Tu primera Progressive Web App - Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
 
@@ -34,17 +34,17 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## GraphQL
 
-### 🤔 Información
+#### 🤔 Información
 
 [GraphQL - Oficial](https://graphql.org/)
 
-### 💻 Tutoriales
+#### 💻 Tutoriales
 
 [Curso express GraphQL - Midudev](https://www.youtube.com/watch?v=KRV46iZ844s&list=PLV8x_i1fqBw3wHa7HOle0MMAcRjfViWwC)
 
 ## Firebase
 
-### 🤔 Información
+#### 🤔 Información
 
 [Firebase - Oficial](https://firebase.google.com/?hl=es-419)
 
@@ -54,11 +54,11 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## Web push
 
-### 🤔 Información
+#### 🤔 Información
 
 [Web Push Notifications - OneSignal](https://onesignal.com/webpush)
 
-### 💻 Tutoriales
+#### 💻 Tutoriales
 
 [Agregado de notificaciones push a una app web](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=es)
 
