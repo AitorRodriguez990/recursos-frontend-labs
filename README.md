@@ -79,8 +79,15 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## Node.js
 
-🚧 En construccion.
+#### 🤔 Información
 
+[Node.js - Oficial](https://nodejs.org/es/)
+
+[Node.js Introduction - w3schools](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+
+#### 💻 Tutoriales
+
+[Writing your first Node.js REST API Service](https://medium.com/@fiqriismail/writing-your-first-node-js-rest-api-service-5608f2fb703a)
 
 ## Web Share API
 
