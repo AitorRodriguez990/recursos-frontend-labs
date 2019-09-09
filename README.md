@@ -73,4 +73,8 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## Otros recursos
 
+### APIs para pruebas de desarrollo
+
 [Rick and Morty API](https://rickandmortyapi.com/)
+
+[OMDb API](http://www.omdbapi.com/)
