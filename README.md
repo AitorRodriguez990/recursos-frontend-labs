@@ -12,7 +12,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 6. [Node.js](#nodejs)
 7. [Web Share API](#web-share-api)
 8. [AMP Email](#amp-email)
-
+9. [Otros recursos](#otros-recursos)
 
 ## PWA - Progressive Web Apps
 
@@ -29,8 +29,13 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## GraphQL
 
-🚧 En construccion.
+## Información
 
+[GraphQL - Documentación oficial](https://graphql.org/)
+
+## Tutoriales
+
+[Curso express GraphQL - Midudev](https://www.youtube.com/watch?v=KRV46iZ844s&list=PLV8x_i1fqBw3wHa7HOle0MMAcRjfViWwC)
 
 ## Firebase
 
@@ -60,3 +65,8 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 ## AMP Email
 
 🚧 En construccion.
+
+
+## Otros recursos
+
+[Rick and Morty API](https://rickandmortyapi.com/)
