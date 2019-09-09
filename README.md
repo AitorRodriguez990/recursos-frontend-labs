@@ -4,7 +4,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 # Temas
 
-1. [PWA - Progressive Web Apps](#pwa-progressive-web-apps)
+1. [PWA - Progressive Web Apps](#pwa---progressive-web-apps)
 2. [GraphQL](#graphql)
 3. [Firebase](#firebase)
 4. [Web push](#web-push)
