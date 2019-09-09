@@ -100,7 +100,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 #### 💻 Tutoriales
 
-[Create your first AMP Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/)
+[Create your first AMP Email - AMP Dev](https://amp.dev/documentation/guides-and-tutorials/start/create_email/)
 
 
 ## Otros recursos
