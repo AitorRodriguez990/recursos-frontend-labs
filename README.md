@@ -94,7 +94,13 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## AMP Email
 
-🚧 En construccion.
+#### 🤔 Información
+
+[AMP Email - Oficial](https://amp.dev/about/email/)
+
+#### 💻 Tutoriales
+
+[Create your first AMP Email](https://amp.dev/documentation/guides-and-tutorials/start/create_email/)
 
 
 ## Otros recursos
