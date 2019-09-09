@@ -60,7 +60,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 #### 💻 Tutoriales
 
-[Agregado de notificaciones push a una app web](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=es)
+[Agregado de notificaciones push a una app web - Google Developers](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=es)
 
 [Usando Push Notifications en tu web](https://medium.com/finizens-engineering/usando-push-notifications-en-tu-web-7e6711e9070e)
 
@@ -72,7 +72,7 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 #### 💻 Tutoriales
 
-[Hello World en React Native](https://facebook.github.io/react-native/docs/tutorial)
+[Hello World en React Native - Facebook](https://facebook.github.io/react-native/docs/tutorial)
 
 [How I built my first React Native app for my first freelance client](https://www.freecodecamp.org/news/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1/)
 
@@ -84,8 +84,13 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## Web Share API
 
-🚧 En construccion.
+#### 🤔 Información
 
+[Introducing the Web Share API - Google Developers](https://developers.google.com/web/updates/2016/09/navigator-share)
+
+#### 💻 Tutoriales
+
+[How to Use the Web Share API - CSS Tricks](https://css-tricks.com/how-to-use-the-web-share-api/)
 
 ## AMP Email
 
