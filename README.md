@@ -66,7 +66,15 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ## React native
 
-🚧 En construccion.
+#### 🤔 Información
+
+[React Native - Oficial](https://facebook.github.io/react-native/)
+
+#### 💻 Tutoriales
+
+[Hello World en React Native](https://facebook.github.io/react-native/docs/tutorial)
+
+[How I built my first React Native app for my first freelance client](https://www.freecodecamp.org/news/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1/)
 
 
 ## Node.js
