@@ -18,7 +18,11 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 ### 🤔 Información
 
+[Progressive Web Apps - Google Developers](https://developers.google.com/web/progressive-web-apps/)
+
 [PWA Experts - Comunidad opensource](https://pwaexperts.io/)
+
+[PWA Rocks - Buscador de PWA](https://pwa.rocks/)
 
 ### 💻 Tutoriales
 
