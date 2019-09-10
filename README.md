@@ -1,4 +1,4 @@
-# Recursos Labs
+# Recursos Frontend Labs
 
 Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar información, tutoriales, repositorios, etc. que puedan ser de interés.
 
