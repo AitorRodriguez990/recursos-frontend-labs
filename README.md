@@ -34,6 +34,8 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 [Agregado de un Servicio Worker y trabajo sin conexión a tu app web](https://developers.google.com/web/fundamentals/codelabs/offline/?hl=es)
 
+[Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/)
+
 ## GraphQL
 
 #### 🤔 Información
