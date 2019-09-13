@@ -39,6 +39,8 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 [Web App Manifest Generator](https://app-manifest.firebaseapp.com)
 
+[Launcher icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
+
 ### Service Workers
 
 #### 🤔 Información
