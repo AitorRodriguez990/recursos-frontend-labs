@@ -24,6 +24,8 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 [PWA Rocks - Buscador de PWA](https://pwa.rocks/)
 
+[El manifiesto de las Web Apps - Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/?hl=es)
+
 #### 💻 Tutoriales
 
 [Tu primera Progressive Web App - Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
