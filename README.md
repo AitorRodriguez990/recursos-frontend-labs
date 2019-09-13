@@ -33,6 +33,11 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 [Desarrolla tu primera PWA con React - PWA Experts](https://pwaexperts.io/tutoriales/desarrolla-primera-pwa-react)
 
+### Manifest
+
+#### 🛠️ Herramientas
+
+[Web App Manifest Generator](https://app-manifest.firebaseapp.com)
 
 ### Service Workers
 
