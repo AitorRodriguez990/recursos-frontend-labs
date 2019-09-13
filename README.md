@@ -58,6 +58,13 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 [Firebase - Canal Youtube](https://www.youtube.com/user/Firebase/videos)
 
+📹 [Firebase & cloud Firestore](https://www.youtube.com/watch?v=A-HqUyOk3V0)
+
+#### 💻 Tutoriales
+
+📹 [Ejemplo práctico de implementación de Cloud Firestore
+](https://www.youtube.com/watch?v=vLWQqGsQL_Y)
+
 ## Web push
 
 #### 🤔 Información
