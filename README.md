@@ -62,83 +62,75 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 #### 🤔 Información
 
-[Firebase - Oficial](https://firebase.google.com/?hl=es-419)
-
-[¿Qué es Firebase? - Open Webinars](https://openwebinars.net/blog/que-es-firebase-de-google/)
-
-[Firebase - Canal Youtube](https://www.youtube.com/user/Firebase/videos)
-
-[Firebase & cloud Firestore - Aprendiendo Frontend](https://www.youtube.com/watch?v=A-HqUyOk3V0)
+- [Firebase - Oficial](https://firebase.google.com/?hl=es-419)
+- [¿Qué es Firebase? - Open Webinars](https://openwebinars.net/blog/que-es-firebase-de-google/)
+- [Firebase - Canal Youtube](https://www.youtube.com/user/Firebase/videos)
+- [Firebase & cloud Firestore - Aprendiendo Frontend](https://www.youtube.com/watch?v=A-HqUyOk3V0)
 
 #### 💻 Tutoriales
 
-[Ejemplo práctico de implementación de Cloud Firestore - Aprendiendo Frontend
+- [Ejemplo práctico de implementación de Cloud Firestore - Aprendiendo Frontend
 ](https://www.youtube.com/watch?v=vLWQqGsQL_Y)
 
 ## Web push
 
 #### 🤔 Información
 
-[Web Push Notifications - OneSignal](https://onesignal.com/webpush)
+- [Web Push Notifications - OneSignal](https://onesignal.com/webpush)
 
 #### 💻 Tutoriales
 
-[Agregado de notificaciones push a una app web - Google Developers](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=es)
-
-[Usando Push Notifications en tu web](https://medium.com/finizens-engineering/usando-push-notifications-en-tu-web-7e6711e9070e)
+- [Agregado de notificaciones push a una app web - Google Developers](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=es)
+- [Usando Push Notifications en tu web](https://medium.com/finizens-engineering/usando-push-notifications-en-tu-web-7e6711e9070e)
 
 ## React native
 
 #### 🤔 Información
 
-[React Native - Oficial](https://facebook.github.io/react-native/)
+- [React Native - Oficial](https://facebook.github.io/react-native/)
 
 #### 💻 Tutoriales
 
-[Hello World en React Native - Facebook](https://facebook.github.io/react-native/docs/tutorial)
-
-[How I built my first React Native app for my first freelance client](https://www.freecodecamp.org/news/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1/)
+- [Hello World en React Native - Facebook](https://facebook.github.io/react-native/docs/tutorial)
+- [How I built my first React Native app for my first freelance client](https://www.freecodecamp.org/news/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1/)
 
 
 ## Node.js
 
 #### 🤔 Información
 
-[Node.js - Oficial](https://nodejs.org/es/)
-
-[Node.js Introduction - w3schools](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-
-[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Node.js - Oficial](https://nodejs.org/es/)
+- [Node.js Introduction - w3schools](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 #### 💻 Tutoriales
 
-[Writing your first Node.js REST API Service](https://medium.com/@fiqriismail/writing-your-first-node-js-rest-api-service-5608f2fb703a)
+- [Writing your first Node.js REST API Service](https://medium.com/@fiqriismail/writing-your-first-node-js-rest-api-service-5608f2fb703a)
 
 ## Web Share API
 
 #### 🤔 Información
 
-[Introducing the Web Share API - Google Developers](https://developers.google.com/web/updates/2016/09/navigator-share)
+- [Introducing the Web Share API - Google Developers](https://developers.google.com/web/updates/2016/09/navigator-share)
 
 #### 💻 Tutoriales
 
-[How to Use the Web Share API - CSS Tricks](https://css-tricks.com/how-to-use-the-web-share-api/)
+- [How to Use the Web Share API - CSS Tricks](https://css-tricks.com/how-to-use-the-web-share-api/)
 
 ## AMP Email
 
 #### 🤔 Información
 
-[AMP Email - Oficial](https://amp.dev/about/email/)
+- [AMP Email - Oficial](https://amp.dev/about/email/)
 
 #### 💻 Tutoriales
 
-[Create your first AMP Email - AMP Dev](https://amp.dev/documentation/guides-and-tutorials/start/create_email/)
+- [Create your first AMP Email - AMP Dev](https://amp.dev/documentation/guides-and-tutorials/start/create_email/)
 
 
 ## Otros recursos
 
 #### 🕹️ APIs para pruebas de desarrollo
 
-[Rick and Morty API](https://rickandmortyapi.com/)
-
-[OMDb API](http://www.omdbapi.com/)
+- [Rick and Morty API](https://rickandmortyapi.com/)
+- [OMDb API](http://www.omdbapi.com/)
