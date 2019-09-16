@@ -18,42 +18,35 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 #### 🤔 Información
 
-[Progressive Web Apps - Google Developers](https://developers.google.com/web/progressive-web-apps/)
-
-[PWA Experts - Comunidad opensource](https://pwaexperts.io/)
-
-[PWA Rocks - Buscador de PWA](https://pwa.rocks/)
-
-[El manifiesto de las Web Apps - Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/?hl=es)
+- [Progressive Web Apps - Google Developers](https://developers.google.com/web/progressive-web-apps/)
+- [PWA Experts - Comunidad opensource](https://pwaexperts.io/)
+- [PWA Rocks - Buscador de PWA](https://pwa.rocks/)
+- [El manifiesto de las Web Apps - Google Developers](https://developers.google.com/web/fundamentals/web-app-manifest/?hl=es)
 
 
 #### 💻 Tutoriales
 
-[Tu primera Progressive Web App - Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
-
-[Desarrolla tu primera PWA con React - PWA Experts](https://pwaexperts.io/tutoriales/desarrolla-primera-pwa-react)
+- [Tu primera Progressive Web App - Google Developers](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
+- [Desarrolla tu primera PWA con React - PWA Experts](https://pwaexperts.io/tutoriales/desarrolla-primera-pwa-react)
 
 ### Manifest
 
 #### 🛠️ Herramientas
 
-[Web App Manifest Generator](https://app-manifest.firebaseapp.com)
-
-[Launcher icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
+- [Web App Manifest Generator](https://app-manifest.firebaseapp.com)
+- [Launcher icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
 
 ### Service Workers
 
 #### 🤔 Información
 
-[The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-
-[El ciclo de vida del service worker](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle?hl=es)
+- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+- [El ciclo de vida del service worker](https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle?hl=es)
 
 #### 💻 Tutoriales
 
-[Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/)
-
-[Agregado de un Servicio Worker y trabajo sin conexión a tu app web](https://developers.google.com/web/fundamentals/codelabs/offline/?hl=es)
+- [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/)
+- [Agregado de un Servicio Worker y trabajo sin conexión a tu app web](https://developers.google.com/web/fundamentals/codelabs/offline/?hl=es)
 
 ## GraphQL
 
