@@ -52,11 +52,11 @@ Listado de recursos de Labs en los que trabajemos. Aquí se puede encontrar info
 
 #### 🤔 Información
 
-[GraphQL - Oficial](https://graphql.org/)
+- [GraphQL - Oficial](https://graphql.org/)
 
 #### 💻 Tutoriales
 
-[Curso express GraphQL - Midudev](https://www.youtube.com/watch?v=KRV46iZ844s&list=PLV8x_i1fqBw3wHa7HOle0MMAcRjfViWwC)
+- [Curso express GraphQL - Midudev](https://www.youtube.com/watch?v=KRV46iZ844s&list=PLV8x_i1fqBw3wHa7HOle0MMAcRjfViWwC)
 
 ## Firebase
 
